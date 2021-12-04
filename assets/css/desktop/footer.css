@@ -9,6 +9,7 @@ footer {
 .footer {
 	display: flex;
 	align-items: center;
+	width: 80%;
 }
 .item-footer {
 	width: 400px;
@@ -38,5 +39,5 @@ footer {
 }
 .tm {
 	width: 80%;
-	color: gray;
+	color: black;
 }
