@@ -17,3 +17,16 @@
 .intelligence-3 {
 	margin: 15px;
 }
+.document {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	font-size: 16px;
+	height: 400px;
+	width: 50%;
+}
+.document a {
+	text-decoration: none;
+	color: #7bd0f3;
+	margin: 5px;
+}
