@@ -1,0 +1,36 @@
+.services {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.services-2 {
+	width: 80%;
+}
+.title {
+	font-size: 32px;
+	font-family: Roboto, sans-serif;
+}
+.border {
+	border: 1px solid gray;
+	border-radius: 10px;
+	padding: 30px;
+}
+h2 {
+	padding: 0;
+}
+.string {
+	display: flex;
+}
+.column-1 {
+	padding-right: 25px;
+	border-right: 2px solid gray;
+}
+.column-2 {
+	padding-right: 25px;
+	padding-left: 25px;
+	border-right: 2px solid gray;
+}
+.column-3 {
+	border-right: none;
+	padding-left: 25px;
+}
