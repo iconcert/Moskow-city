@@ -1,9 +1,9 @@
-.vacancies {
+.faq {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
-.vacancies-1 {
+.faq-1 {
 	width: 90%;
 }
 .title {
@@ -22,4 +22,8 @@ p {
 p b {
 	font-family: 'Roboto', sans-serif;
     font-size: 30px;
+}
+.faq-2 {
+	!important
+	height: auto;
 }
