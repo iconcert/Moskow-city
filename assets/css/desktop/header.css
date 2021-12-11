@@ -6,7 +6,7 @@
 }
 .one-1 {
 	display: flex;
-	width: 80%;
+	width: 90%;
 	align-items: center;
 }
 img {
@@ -39,7 +39,7 @@ button {
 .two-1 {
 	display: flex;
     justify-content: space-around;
-	width: 80%;
+	width: 90%;
 }
 .two a {
 	color: black;

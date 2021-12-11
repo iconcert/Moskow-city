@@ -1,5 +1,5 @@
 .width {
-	width: 80%;
+	width: 90%;
 }
 footer {
 	display: flex;
@@ -9,7 +9,7 @@ footer {
 .footer {
 	display: flex;
 	align-items: center;
-	width: 80%;
+	width: 90%;
 }
 .item-footer {
 	width: 400px;
@@ -38,6 +38,6 @@ footer {
 	font-family: 'Roboto', sans-serif;
 }
 .tm {
-	width: 80%;
+	width: 90%;
 	color: black;
 }

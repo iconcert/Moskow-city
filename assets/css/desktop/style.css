@@ -13,19 +13,15 @@ body {
 .item {
 	display: flex;
 	flex-direction: column;
-	width: 80%;
+	width: 90%;
 
 }
 .fasad {
-	width: 1000px;
-	height: 600px;
 	border-radius: 10px;
 }
 .news {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
-	min-width: 300px;
 }
 .item-1 {
 	display: flex;
@@ -54,6 +50,7 @@ p {
 	border: 1px solid gray;
 	border-radius: 10px;
 	width: 350px;
+	box-shadow: 2px 2px 2px 3px #d3cece;
 }
 .services_item {
 	display: flex;
@@ -82,4 +79,26 @@ h2 {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+}
+.img {
+	border-radius: 15px;
+	width: 300px;
+	box-shadow: 2px 2px 2px 3px #d3cece;
+}
+.img-1 {
+	margin-top: 10px;
+}
+.trust-1 {
+	line-height: 40px;
+}
+.trust-2 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: blue;
+	text-align: center;
+	text-decoration: none;
+}
+p b {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
 }
