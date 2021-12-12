@@ -47,3 +47,7 @@ button {
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 }
+a:hover {
+	color: blue;
+	text-decoration: underline;
+}

@@ -102,3 +102,7 @@ p b {
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
 }
+a:hover {
+	color: blue;
+	text-decoration: underline;
+}

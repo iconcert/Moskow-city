@@ -1,0 +1,10 @@
+.item-1 {
+	flex-direction: column;
+}
+.fasad {
+	display: flex;
+	justify-content: center;
+}
+.document {
+	height: auto;
+}
