@@ -8,7 +8,7 @@
 }
 .title {
 	font-size: 36px;
-	color: red;
+	color: #F04D4C;
 	font-family: 'Roboto', sans-serif;
 }
 h1 {
@@ -26,4 +26,24 @@ p b {
 .faq-2 {
 	!important
 	height: auto;
+}
+.faq-3 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.faq-4 {
+	display: flex;
+    justify-content: space-around;
+    width: 90%;
+}
+.faq-3 a {
+	color: black;
+    font-size: 28px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+a:hover {
+	color: #F04D4C;
+	text-decoration: underline;
 }
