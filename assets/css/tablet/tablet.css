@@ -1,7 +1,7 @@
 .item-1 {
 	flex-direction: column;
 }
-.fasad {
+.fasad, .fasad-1 {
 	display: flex;
 	justify-content: center;
 }
