@@ -94,6 +94,9 @@ h2 {
 	margin-top: 10px;
 	border-radius: 20px;
 }
+.svg {
+	background-size: cover;
+}
 .trust-1 {
 	line-height: 40px;
 }
